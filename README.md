@@ -121,4 +121,4 @@ Model belum tersedia
 
 👨‍💻 Author
 
-Dibuat untuk keperluan pretest web developer
+Dibuat oleh Wildan Zulfikar untuk keperluan pretest web developer
