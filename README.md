@@ -3,7 +3,7 @@
 Project ini adalah **chatbot AI sederhana berbasis web** yang terintegrasi dengan **AI lokal menggunakan Ollama**.  
 Chatbot dibuat menggunakan **HTML, CSS, JavaScript (frontend)** dan **Node.js + Express (backend)**.
 
-Project ini cocok untuk:
+Project ini digunakan untuk:
 - memenuhi pretest
 
 ---
